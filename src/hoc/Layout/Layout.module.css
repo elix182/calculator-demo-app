@@ -1,0 +1,12 @@
+.Content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  margin-top: 32pt;
+  margin-left: 24pt;
+  margin-right: 24pt;
+  /* margin-bottom: 32pt; */
+  padding: 16pt;
+  background-color: white;
+}

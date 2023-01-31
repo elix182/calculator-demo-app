@@ -1,0 +1,9 @@
+.OperationKeyButton {
+  width: 10vmin;
+  height: 10vmin;
+  color: #F3F3F3;
+  background-color: #424242;
+  font-weight: bold;
+  font-size: xx-large;
+  text-align: center;
+}

@@ -1,0 +1,35 @@
+.Button {
+  font-family: Arial, Helvetica, sans-serif;
+  min-width: 64px;
+  min-height: 32px;
+  padding-left: 16px;
+  padding-right: 16px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border: none;
+  border-radius: 4px;
+}
+
+.Button:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.default {
+  color: #000000;
+  background-color: #F3F3F3;
+}
+
+.primary {
+  color: #F3F3F3;
+  background-color: #0d47a1;
+}
+
+.success {
+  color: #F3F3F3;
+  background-color: #43a047;
+}
+
+.danger {
+  color: #F3F3F3;
+  background-color: #c62828;
+}
